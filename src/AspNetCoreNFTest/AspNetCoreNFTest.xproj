@@ -14,6 +14,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/9f52e73c-8dd8-454e-b222-77a880693dec/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/AspNetCoreNFTest</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
